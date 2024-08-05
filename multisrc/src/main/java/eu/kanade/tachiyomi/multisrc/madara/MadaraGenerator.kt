@@ -80,7 +80,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("CopyPasteScan", "https://copypastescan.xyz", "es", overrideVersionCode = 1),
         SingleLang("CreepyScans", "https://creepyscans.com", "en"),
         SingleLang("DapRob", "https://daprob.com", "es"),
-        SingleLang("Dark Scans", "https://darkscans.com", "en", overrideVersionCode = 1),
+        SingleLang("Dark Scans", "https://darkscans.net", "en", overrideVersionCode = 1),
         SingleLang("Decadence Scans", "https://reader.decadencescans.com", "en", isNsfw = true, overrideVersionCode = 2),
         SingleLang("Demon Sect", "https://demonsect.com.br", "pt-BR", pkgName = "prismascans", overrideVersionCode = 4),
         SingleLang("Dessert Scan", "https://cabaredowatame.site", "pt-BR", isNsfw = true),
